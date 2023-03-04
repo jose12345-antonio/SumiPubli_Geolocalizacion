@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/viewDate"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Lista de negocios"
+        android:iconTint="@color/white"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/listaUsuario"
+        android:icon="@drawable/ic_baseline_business_center_24"
+        android:title="Lista de negocios"
+        android:iconTint="@color/white"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/updateDatosAdmin"
+        android:orderInCategory="100"
+        android:title="Actualizar datos"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/updatePasswordAdmin"
+        android:orderInCategory="100"
+        android:title="Actualizar contraseña"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/cerrarSesionAdmin"
+        android:orderInCategory="100"
+        android:title="Cerrar Sesión"
+        app:showAsAction="never" />
+
+</menu>

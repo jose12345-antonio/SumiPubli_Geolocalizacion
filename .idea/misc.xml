@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/drawable/background_line.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/drawable/bagkground_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/drawable/button_bg_cancel.xml" value="0.19282051282051282" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/drawable/detalle_negocio.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/drawable/editext_login.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/activity_confirm_update_password.xml" value="0.16944444444444445" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/activity_home_usuario.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/activity_lista_negocio.xml" value="0.17692307692307693" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/activity_lista_trabajador.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/activity_login.xml" value="0.1796875" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/activity_mapa_trabajador.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/activity_registrar_negocio.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/activity_reset_password.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/activity_trazar_ubicacion.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/activity_trazar_ubicacion2.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/activity_update_datos.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/activity_update_local.xml" value="0.1796875" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/activity_update_password.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/activity_update_password_code.xml" value="0.16944444444444445" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/activity_verify_code.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/app_bar_home_administrador.xml" value="0.1796875" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/content_home_administrador.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/detalle_negocio.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/detalle_trabajador.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/dialog_info.xml" value="0.1796875" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/dialog_view.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/fragment_gallery.xml" value="0.1796875" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/fragment_list_trabajador.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/fragment_listar_negocio2.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/lista_negocio.xml" value="0.17692307692307693" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/lista_trabajador.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/layout/nav_header_home_administrador.xml" value="0.1796875" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/menu/home_administrador.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/SumiPubli_Geolocalizacion/app/src/main/res/menu/home_user.xml" value="0.16666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

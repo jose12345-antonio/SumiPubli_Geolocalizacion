@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mapTraba"
+    map:cameraZoom="12"
+    map:uiRotateGestures="true"
+    map:uiZoomControls="true"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    tools:context=".MapaTrabajador"/>

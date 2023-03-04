@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_listUsuario">
+
+    <fragment
+        android:id="@+id/nav_negocio"
+        android:name="com.example.sumipubli_geolocalizacion.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_usuario"
+        android:name="com.example.sumipubli_geolocalizacion.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_listNegocio"
+        android:name="com.example.sumipubli_geolocalizacion.ListarNegocio2"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_listar_negocio2" />
+
+    <fragment
+        android:id="@+id/nav_listUsuario"
+        android:name="com.example.sumipubli_geolocalizacion.ListTrabajador"
+        android:label="@string/menu_listaTrabajo"
+        tools:layout="@layout/fragment_list_trabajador" />
+</navigation>

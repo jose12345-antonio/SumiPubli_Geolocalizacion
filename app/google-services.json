@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "654038823112",
+    "project_id": "sumipubli-526b9",
+    "storage_bucket": "sumipubli-526b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654038823112:android:8cc28c81dbc1445ce1b5fd",
+        "android_client_info": {
+          "package_name": "com.example.sumipubli_geolocalizacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654038823112-gmo7cj6bn53iqtbbjlsc20fdnep6oa24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sumipubli_geolocalizacion",
+            "certificate_hash": "dc3951dbf51b97c036b0a42b524ef1e7f51ca7df"
+          }
+        },
+        {
+          "client_id": "654038823112-balgdn5sfkdv79dk09srm5p6li47sqcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3m8Qo-IahMPQq-jWaf8t7ASPfnpZQgD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654038823112-balgdn5sfkdv79dk09srm5p6li47sqcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
